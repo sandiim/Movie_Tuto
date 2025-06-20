@@ -3,7 +3,7 @@ import React from 'react'
 function MovieCard({movie}) {
 
     function onFavoriteClick(){
-        alert("clicked");
+
     }
 
   return (
